@@ -1,6 +1,9 @@
 {
   "expo": {
+<<<<<<< HEAD
     "scheme": "nhsrdl",
+=======
+>>>>>>> b382da4b639239d28ccbb9b22715beeabb64f55b
     "name": "nhsrdl",
     "slug": "nhsrdl",
     "version": "1.0.0",
